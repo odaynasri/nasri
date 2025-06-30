@@ -1,0 +1,2 @@
+# Oday Nasri
+**Oday Nasri** is a repo name by Github was originally developed by researchers and engineers working within the Machine Intelligence team at Google Brain to conduct research in machine learning and neural networks. However, the framework is versatile enough to be used in other areas as well.
